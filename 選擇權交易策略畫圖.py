@@ -60,20 +60,3 @@ plt.legend(loc=3)
 plt.show()
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
