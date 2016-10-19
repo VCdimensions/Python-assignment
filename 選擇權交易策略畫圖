@@ -8,6 +8,7 @@ Created on Thu Oct 13 12:34:50 2016
 import numpy as np
 import matplotlib.pyplot as plt
 
+K = 9000
 Interval = 500
 ST = np.arange(K - Interval,K + Interval)
 
